@@ -102,7 +102,7 @@ Install the following before running the project:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Darshan0203/BDA-Stock-market-analysis.git
 ```
 
 ```bash
